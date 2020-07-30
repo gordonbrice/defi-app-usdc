@@ -2,8 +2,9 @@ const ethers = require('ethers');
 const wallet = require('./utils/wallet');
 const provider = require('./utils/provider');
 
-async main() {
+/*async main() {
     wallet.connect(provider);
 }
 
 main();
+*/
